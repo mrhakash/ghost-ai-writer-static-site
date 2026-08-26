@@ -1,11 +1,11 @@
-# robots.txt for Ghost AI Writer Staging
+# robots.txt for Ghost AI Writer
 # Generated automatically by Static Site Generator
 
 User-agent: *
 Allow: /
 
 # Sitemaps
-Sitemap: https://ghost-cms-production-47b5.up.railway.app/sitemap.xml
+Sitemap: https://mrhakash.github.io/ghost-ai-writer-static-site/sitemap.xml
 
 # Crawl-delay (optional, respected by some bots)
 Crawl-delay: 1
