@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" 
+     xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Ghost AI Writer Staging</title>
+    <link>https://ghost-cms-production-47b5.up.railway.app/</link>
+    <description>Latest posts from Ghost AI Writer Staging</description>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 26 Aug 2026 15:36:52 GMT</lastBuildDate>
+    <atom:link href="https://ghost-cms-production-47b5.up.railway.app/rss.xml" rel="self" type="application/rss+xml"/>
+    <generator>Static Site Generator v2.3.0</generator>
+
+    <item>
+      <title>Coming soon</title>
+      <link>https://ghost-cms-production-47b5.up.railway.app/news/coming-soon.html</link>
+      <guid isPermaLink="true">https://ghost-cms-production-47b5.up.railway.app/news/coming-soon.html</guid>
+      <pubDate>Tue, 25 Aug 2026 19:59:20 GMT</pubDate>
+      <description>This is Ghost AI Writer E2E Staging, a brand new site by Staging Operator that&apos;s just getting started. Things will be up and running here shortly, but you can subscribe in the meantime if you&apos;d like to stay up to date and receive emails when new content is published!</description>
+      <category>News</category>
+      <author>Staging Operator</author>
+    </item>
+  </channel>
+</rss>
