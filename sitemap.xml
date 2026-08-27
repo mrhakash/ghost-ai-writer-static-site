@@ -19,7 +19,7 @@
   </url>
 
   <url>
-    <loc>https://mrhakash.github.io/ghost-ai-writer-static-site/category/editorial-workflow/</loc>
+    <loc>https://mrhakash.github.io/ghost-ai-writer-static-site/category/automation/</loc>
     
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
@@ -33,7 +33,126 @@
   </url>
 
   <url>
+    <loc>https://mrhakash.github.io/ghost-ai-writer-static-site/category/performance-tracking/</loc>
+    
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
     <loc>https://mrhakash.github.io/ghost-ai-writer-static-site/category/content-strategy/</loc>
+    
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://mrhakash.github.io/ghost-ai-writer-static-site/category/small-teams/</loc>
+    
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://mrhakash.github.io/ghost-ai-writer-static-site/category/indoor-plants/</loc>
+    
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://mrhakash.github.io/ghost-ai-writer-static-site/category/plant-care/</loc>
+    
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://mrhakash.github.io/ghost-ai-writer-static-site/category/houseplants/</loc>
+    
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://mrhakash.github.io/ghost-ai-writer-static-site/category/plant-health/</loc>
+    
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://mrhakash.github.io/ghost-ai-writer-static-site/category/car-accessories/</loc>
+    
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://mrhakash.github.io/ghost-ai-writer-static-site/category/car-covers/</loc>
+    
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://mrhakash.github.io/ghost-ai-writer-static-site/category/vehicle-protection/</loc>
+    
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://mrhakash.github.io/ghost-ai-writer-static-site/category/cover-sizing/</loc>
+    
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://mrhakash.github.io/ghost-ai-writer-static-site/category/auto-care/</loc>
+    
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://mrhakash.github.io/ghost-ai-writer-static-site/category/car-painting/</loc>
+    
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://mrhakash.github.io/ghost-ai-writer-static-site/category/sanding-tips/</loc>
+    
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://mrhakash.github.io/ghost-ai-writer-static-site/category/auto-detailing/</loc>
+    
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://mrhakash.github.io/ghost-ai-writer-static-site/category/product-sizing/</loc>
+    
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://mrhakash.github.io/ghost-ai-writer-static-site/category/vehicle-measurement/</loc>
+    
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://mrhakash.github.io/ghost-ai-writer-static-site/category/editorial-workflow/</loc>
     
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
@@ -58,6 +177,55 @@
     
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://mrhakash.github.io/ghost-ai-writer-static-site/content-marketing/automate-content-distribution-performance-ai.html</loc>
+    <lastmod>2026-08-27T17:39:47.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://mrhakash.github.io/ghost-ai-writer-static-site/content-marketing/ai-content-planning-small-teams.html</loc>
+    <lastmod>2026-08-27T17:37:36.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://mrhakash.github.io/ghost-ai-writer-static-site/indoor-plants/indoor-plants-care-tips.html</loc>
+    <lastmod>2026-08-27T17:31:56.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://mrhakash.github.io/ghost-ai-writer-static-site/car-accessories/motor-trend-car-cover-size-chart.html</loc>
+    <lastmod>2026-08-27T17:22:33.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://mrhakash.github.io/ghost-ai-writer-static-site/auto-care/sandpaper-grit-chart-cars.html</loc>
+    <lastmod>2026-08-27T17:21:02.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://mrhakash.github.io/ghost-ai-writer-static-site/car-accessories/rain-x-car-cover-size-chart.html</loc>
+    <lastmod>2026-08-27T17:18:43.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://mrhakash.github.io/ghost-ai-writer-static-site/car-accessories/autocraft-car-cover-size-chart.html</loc>
+    <lastmod>2026-08-27T17:17:07.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
   </url>
 
   <url>
