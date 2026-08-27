@@ -7,9 +7,22 @@
     <link>https://mrhakash.github.io/ghost-ai-writer-static-site/</link>
     <description>Latest posts from Ghost AI Writer</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 27 Aug 2026 10:59:18 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 27 Aug 2026 11:59:58 GMT</lastBuildDate>
     <atom:link href="https://mrhakash.github.io/ghost-ai-writer-static-site/rss.xml" rel="self" type="application/rss+xml"/>
     <generator>Static Site Generator v2.3.0</generator>
+
+    <item>
+      <title>Master Your Webinar Release Verification Static Publishing Workflow!</title>
+      <link>https://mrhakash.github.io/ghost-ai-writer-static-site/webinar-management/webinar-release-verification-workflow.html</link>
+      <guid isPermaLink="true">https://mrhakash.github.io/ghost-ai-writer-static-site/webinar-management/webinar-release-verification-workflow.html</guid>
+      <pubDate>Thu, 27 Aug 2026 11:57:57 GMT</pubDate>
+      <description>I still remember the nerves before my very first webinar launch using a static site workflow — the clock was ticking, the team buzzing, and me thinking, “I’ve got this.” Then bam! Halfway through the live event, a flood of messages: “The video won’t play!” “Slides are missing!” “Links are broken!” That sinking feeling? It wasn’t just embarrassment. It was the gut punch of realizing I had no solid way to catch these problems before hitting publish.
+
+
+That painful lesson stuck with me: verifying a</description>
+      <category>Webinar Management</category>
+      <author>Ghost AI Writer Owner</author>
+    </item>
 
     <item>
       <title>Coming soon</title>
